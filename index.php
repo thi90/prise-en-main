@@ -9,13 +9,13 @@
 
 </header>
 <main>	
-<section>	
+   <section>	
        <h2>	MA PREMIERE SECTION</h2>
-</section>
-<footer>	
-tous droits reserves
-</footer>
- </main>
+  </section>
+  <footer>	
+      <p>tous droits reserves	</p>
+  </footer>
+</main>
 
 </body>
 </html>
